@@ -37,19 +37,14 @@ personalized-ai-investment-advisor/
 │   ├── advisor_engine.py    # SQL generation, execution
 │   └── utils.py             # Helpers for formatting
 │
-├── config/
-│   └── api_keys_template.yaml  # Template config (do not commit real keys)
-│
 ├── demo/    
 │   └── screenshots/         # UI screenshots
 │
 ├── docs/
-│   ├── Project_Proposal.pdf
-│   ├── Report.pdf
-│   └── Presentation_Slides.pdf
-│
-└── tests/
-    └── test_advisor_engine.py  # Core logic testing
+  ├── Project_Proposal.pdf
+  ├── Report.pdf
+  └── Presentation_Slides.pdf
+
 ```
 
 ---
