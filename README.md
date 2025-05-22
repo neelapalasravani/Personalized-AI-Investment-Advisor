@@ -79,10 +79,8 @@ personalized-ai-investment-advisor/
 ---
 
 ## Demo
-
-  
 -  UI Screenshot:  
-  ![UI Screenshot](demo/screenshots/ui_example.png)
+  
 
 ---
 
