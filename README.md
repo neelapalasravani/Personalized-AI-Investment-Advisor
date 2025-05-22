@@ -40,8 +40,7 @@ personalized-ai-investment-advisor/
 ├── config/
 │   └── api_keys_template.yaml  # Template config (do not commit real keys)
 │
-├── demo/
-│   ├── demo_video.mp4       # Walkthrough video
+├── demo/    
 │   └── screenshots/         # UI screenshots
 │
 ├── docs/
@@ -81,7 +80,7 @@ personalized-ai-investment-advisor/
 
 ## Demo
 
--  **[Watch the Demo Video](demo/demo_video.mp4)**  
+  
 -  UI Screenshot:  
   ![UI Screenshot](demo/screenshots/ui_example.png)
 
